@@ -21,8 +21,8 @@
                         <a href="../public/solutions.php" class="dropdown-item">Giải bài tập SGK</a>
                     </div>
                 </div>
-                <a href="contact.html" class="nav-item nav-link">Liên hệ</a>
-                <a href="about.html" class="nav-item nav-link">Về chúng tôi</a>
+                <a href="../public/contact.php" class="nav-item nav-link">Liên hệ</a>
+                <a href="../public/about.php" class="nav-item nav-link">Về chúng tôi</a>
             </div>
             <?php if (isset($_SESSION['HoTen'])): ?>
                 <div class="nav-item dropdown">
